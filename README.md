@@ -13,4 +13,4 @@
 `jupyter lab`
 
 ## Contents of conda environment 
-* Jupyter Lab
+* Jupyter Lab with extensions: GeoJSON
