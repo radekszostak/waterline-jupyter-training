@@ -13,4 +13,9 @@
 `jupyter lab`
 
 ## Contents of conda environment 
-* Jupyter Lab with extensions: GeoJSON
+* Jupyter Lab with GeoJSON extension
+* Geemap
+* Ipyleaflet
+* GDAL
+* Rioxarray
+* Geopandas
