@@ -1,4 +1,4 @@
-# waterline-jupyter-training
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/radekszostak/waterline-jupyter-training/HEAD?labpath=notebook.ipynb)
 
 ## Machine configuration
 1. Install anaconda on your computer (installer at https://www.anaconda.com/). During installation, confirm the inclusion of anaconda in the PATH environment variable:\
