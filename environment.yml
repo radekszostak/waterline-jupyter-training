@@ -3,4 +3,6 @@ name: geo-env
 dependencies:
   - python=3.10
   - GDAL
+  pip:
+    - rasterio --no-binary rasterio
   
