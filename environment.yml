@@ -2,7 +2,9 @@ name: geo-env
 
 dependencies:
   - python=3.10
-  - GDAL
+  - GDAL=3.5.2
   pip:
     - rasterio --no-binary rasterio
-  
+    - rioxarray
+    - geopandas
+    - geemap
