@@ -11,3 +11,4 @@ dependencies:
     - geemap
     - leafmap
     - xarray_leaflet
+    - localtileserver
