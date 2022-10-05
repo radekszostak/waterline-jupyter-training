@@ -4,11 +4,12 @@ dependencies:
   - python=3.9
   - pip=22.2.2
   - gdal=3.4.1
-  - localtileserver
+  - xarray_leaflet
+  - geemap
+  - leafmap
   - pip:
     - rasterio --no-binary rasterio
     - rioxarray
     - geopandas
-    - geemap
-    - leafmap
-    - xarray_leaflet
+
+
