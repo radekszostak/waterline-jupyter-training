@@ -15,7 +15,8 @@ You can also configure your own machine. To do this follow steps below:
 5. Activate conda environment\
 `conda activate gis-env`
 6. Run Jupyter Lab\
-`jupyter lab`
+`jupyter-lab`
+7. Open in web browser an URL displayed in console after running jupyter-lab
 
 ## Contents of conda environment 
 * Jupyter Lab
