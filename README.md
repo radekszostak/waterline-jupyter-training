@@ -1,6 +1,6 @@
 # Geospatial processing in Python and Jupyter
 ## Binder
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/radekszostak/waterline-jupyter-training/HEAD)\
+<a href="https://mybinder.org/v2/gh/radekszostak/waterline-jupyter-training/HEAD" target="_blank"><img src="https://mybinder.org/badge_logo.svg"></a><br>
 Run training environment using Binder
 
 ## Machine configuration
