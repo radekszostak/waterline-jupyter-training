@@ -1,6 +1,6 @@
 # Geospatial processing in Python and Jupyter
 ## Binder
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/radekszostak/waterline-jupyter-training/HEAD?labpath=1_local_processing.ipynb)\
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/radekszostak/waterline-jupyter-training/HEAD)\
 Run training environment using Binder
 
 ## Machine configuration
