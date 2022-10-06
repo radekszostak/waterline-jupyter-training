@@ -1,4 +1,4 @@
-# Geospatial processing in Python and Jupyter
+# Ways to access the Jupyter environment for geospatial analysis
 ## Binder
 You can run temporary training environment using Binder
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/radekszostak/waterline-jupyter-training/HEAD)\
