@@ -11,7 +11,7 @@ You can also configure your own machine. To do this follow steps below:
 3. Change working directory\
 `cd waterline-jupyter-training`
 4. Create conda environment using environment.yml file\
-`conda env create --name gis-env --file=environments.yml`
+`conda env create --name gis-env --file=environment.yml`
 5. Activate conda environment\
 `conda activate gis-env`
 6. Run Jupyter Lab\
