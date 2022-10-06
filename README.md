@@ -1,8 +1,9 @@
 # Geospatial processing in Python and Jupyter
 ## Binder
+You can run temporary training environment using Binder
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/radekszostak/waterline-jupyter-training/HEAD)\
-Run training environment using Binder
-
+## Planetary computer
+Microsoft Planetary Computer (https://planetarycomputer.microsoft.com/) provides Jupyter environment for geospatial processing. Environmental scientists can apply for free access to this platform.
 ## Machine configuration
 You can also configure your own machine. To do this follow steps below:
 1. Install anaconda on your Linux system (or Linux subsystem for Windows). You can download an installer from https://www.anaconda.com/.
@@ -17,11 +18,3 @@ You can also configure your own machine. To do this follow steps below:
 6. Run Jupyter Lab\
 `jupyter-lab`
 7. Open in web browser an URL displayed in console after running jupyter-lab
-
-## Contents of conda environment 
-* Jupyter Lab
-* Geemap
-* Leafmap
-* GDAL
-* Rioxarray
-* Geopandas
