@@ -5,6 +5,7 @@ dependencies:
   - pip=22.2.2
   - gdal=3.4.1
   - pip:
+    - jupyter-server-proxy
     - rasterio --no-binary rasterio
     - rioxarray
     - geopandas
