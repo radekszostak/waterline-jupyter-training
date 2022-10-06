@@ -1,0 +1,2 @@
+#!/bin/bash
+export LOCALTILESERVER_CLIENT_PREFIX='proxy/{port}'
