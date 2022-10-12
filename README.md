@@ -1,6 +1,6 @@
 [![](http://waterlineproject.eu/images/logo.png)](http://waterlineproject.eu/)
 # About
-This repository contains the files needed for the training conducted by the Waterline project on October 6, 2022.
+This repository contains the files needed for the training conducted as part of the Waterline project on October 6, 2022.
 # Ways to access the Jupyter environment for geospatial analysis
 ## Binder
 You can run temporary training environment using Binder\
