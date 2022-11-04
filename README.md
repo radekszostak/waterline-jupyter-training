@@ -11,9 +11,9 @@ You can run geospatial processing environment using docker:
 2. Run docker image\
 `docker run -p 8888:8888 -w /home/workdir rszostak/gis-jupyter`
 3. Open Jupyter in web browser: http://localhost:8888
-4. In Jupyter open console and use it to clone training repository\
-`git clone https://github.com/radekszostak/waterline-jupyter-training`
+4. In Jupyter open console
 ![image](https://user-images.githubusercontent.com/13874221/200000243-321a834b-592a-4bf6-b318-e31164796d35.png)
+5. Clone training repository.
 ## Conda based configuration
 You can also configure your own machine. To do this follow steps below:
 1. Install anaconda on your Linux system (or Linux subsystem for Windows). You can download an installer from https://www.anaconda.com/.
