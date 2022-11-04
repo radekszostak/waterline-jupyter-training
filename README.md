@@ -7,7 +7,7 @@ You can run temporary training environment using Binder\
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/radekszostak/waterline-jupyter-training/HEAD)
 ## Planetary computer
 Microsoft Planetary Computer (https://planetarycomputer.microsoft.com/) provides Jupyter environment for geospatial processing. Environmental scientists can apply for free access to this platform.
-## Machine configuration
+## Conda based configuration
 You can also configure your own machine. To do this follow steps below:
 1. Install anaconda on your Linux system (or Linux subsystem for Windows). You can download an installer from https://www.anaconda.com/.
 2. Clone training repository from github\
@@ -19,5 +19,14 @@ You can also configure your own machine. To do this follow steps below:
 5. Activate conda environment\
 `conda activate gis-env`
 6. Run Jupyter Lab\
-`jupyter-lab`
-7. Open in web browser an URL displayed in console after running jupyter-lab
+`jupyter-lab "--NotebookApp.token=''", "--NotebookApp.password=''"`
+7. Open in web browser http://localhost:8888.
+
+## Docker based configuration
+You can run geospatial processing environment using docker:
+1. Install docker (https://docs.docker.com/get-docker/) on machine with any operating system.
+2. Run docker image\
+`docker run -p 8888:8888 -w /home/workdir rszostak/gis-jupyter`
+3. Open in web browser http://localhost:8888
+4. Clone training repository\
+`git clone https://github.com/radekszostak/waterline-jupyter-training`
