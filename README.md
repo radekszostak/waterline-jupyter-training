@@ -19,7 +19,7 @@ You can also configure your own machine. To do this follow steps below:
 5. Activate conda environment\
 `conda activate gis-env`
 6. Run Jupyter Lab\
-`jupyter-lab "--NotebookApp.token=''", "--NotebookApp.password=''"`
+`jupyter-lab --NotebookApp.token='' --NotebookApp.password=''`
 7. Open Jupyter in web browser http://localhost:8888.
 
 ## Docker based configuration
