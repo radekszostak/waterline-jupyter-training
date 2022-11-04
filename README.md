@@ -28,5 +28,5 @@ You can run geospatial processing environment using docker:
 2. Run docker image\
 `docker run -p 8888:8888 -w /home/workdir rszostak/gis-jupyter`
 3. Open Jupyter in web browser: http://localhost:8888
-4. In Jupyter open console and clone training repository\
+4. In Jupyter open console and use it to clone training repository\
 `git clone https://github.com/radekszostak/waterline-jupyter-training`
