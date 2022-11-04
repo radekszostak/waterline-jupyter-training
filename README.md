@@ -3,7 +3,7 @@
 This repository contains the files needed for the training conducted as part of the Waterline project on October 6, 2022. For more practical information on processing geospatial data in Python, see the excellent course at https://www.earthdatascience.org/courses/use-data-open-source-python/.
 # Ways to access the Jupyter environment for geospatial analysis
 ## Binder
-You can run temporary training environment using Binder\
+You can run temporary training environment in cloud using Binder:\
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/radekszostak/waterline-jupyter-training/HEAD)
 ## Docker based configuration
 You can run geospatial processing environment using docker:
@@ -29,6 +29,3 @@ You can also configure your own machine. To do this follow steps below:
 7. Open Jupyter in web browser http://localhost:8888.
 ## Planetary computer
 Microsoft Planetary Computer (https://planetarycomputer.microsoft.com/) provides Jupyter environment for geospatial processing. Environmental scientists can apply for free access to this platform.
-
-
-
