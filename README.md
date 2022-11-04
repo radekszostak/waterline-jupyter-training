@@ -20,13 +20,13 @@ You can also configure your own machine. To do this follow steps below:
 `conda activate gis-env`
 6. Run Jupyter Lab\
 `jupyter-lab "--NotebookApp.token=''", "--NotebookApp.password=''"`
-7. Open in web browser http://localhost:8888.
+7. Open Jupyter in web browser http://localhost:8888.
 
 ## Docker based configuration
 You can run geospatial processing environment using docker:
 1. Install docker (https://docs.docker.com/get-docker/) on machine with any operating system.
 2. Run docker image\
 `docker run -p 8888:8888 -w /home/workdir rszostak/gis-jupyter`
-3. Open in web browser http://localhost:8888
-4. Clone training repository\
+3. Open Jupyter in web browser: http://localhost:8888
+4. In Jupyter open console and clone training repository\
 `git clone https://github.com/radekszostak/waterline-jupyter-training`
